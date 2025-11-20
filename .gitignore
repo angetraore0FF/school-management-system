@@ -1,0 +1,68 @@
+# Django
+*.pyc
+*~
+__pycache__/
+*.swp
+*.swo
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.sqlite3
+*.db
+
+# Static files
+staticfiles/
+media/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+.coverage
+.pytest_cache/
+
+# PyInstaller
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Django production
+*.egg-info/
+.installed.cfg
+*.egg
+
+# macOS
+*.DS_Store
